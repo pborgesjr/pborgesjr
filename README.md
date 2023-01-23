@@ -20,8 +20,8 @@ I'm a Frontend Developer with 2+ years of hands-on experience developing applica
 <br>
 
 <p align="center">
-<img width="479em" src="https://github-readme-stats.vercel.app/api?username=pedropjr&show_icons=true&theme=vision-friendly-dark" alt="pedro's stats"/>  
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropjr&layout=compact&theme=vision-friendly-dark" alt="pedro's most used languages"/>  
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedropjr&show_icons=true&theme=vision-friendly-dark" alt="pedro's stats"/>  
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropjr&layout=compact&theme=vision-friendly-dark" alt="pedro's most used languages"/>  
 </p>
 
 <br>
