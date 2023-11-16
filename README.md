@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hey there, my name is Pedro Borges <img src="https://github.com/pedropjr/pedropjr/blob/main/hi_gif.gif" width="30px"></h2>
+<h2> Hey there, my name is Pedro Borges <img src="https://github.com/pborgesjr/pborgesjr/blob/main/hi_gif.gif" width="30px"></h2>
 </div>
 
 
@@ -20,8 +20,8 @@ I'm a Frontend Developer with 3+ years of hands-on experience developing applica
 <br>
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedropjr&show_icons=true&theme=vision-friendly-dark" alt="pedro's stats"/>  
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropjr&layout=compact&theme=vision-friendly-dark" alt="pedro's most used languages"/>  
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pborgesjr&show_icons=true&theme=vision-friendly-dark" alt="pedro's stats"/>  
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pborgesjr&layout=compact&theme=vision-friendly-dark" alt="pedro's most used languages"/>  
 </p>
 
 <br>
