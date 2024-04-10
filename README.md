@@ -6,7 +6,7 @@
 I'm a Frontend Developer with 3+ years of hands-on experience developing applications and solutions using React, React Native and TypeScript.
 
 
-- 🔥 Mid Level Frontend Developer
+- 🔥 Senior Frontend Developer
 
 - 🔭 I’m currently working at [Rethink](https://rethink.dev/)
 
