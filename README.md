@@ -3,7 +3,7 @@
 </div>
 
 
-I'm a Frontend Developer with 3+ years of hands-on experience developing applications and solutions using React, React Native and TypeScript.
+I'm a Frontend Developer with 4+ years of hands-on experience developing applications and solutions using React, React Native and TypeScript.
 
 
 - 🔥 Senior Frontend Developer
