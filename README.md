@@ -3,10 +3,10 @@
 </div>
 
 
-I'm a Frontend Developer with 4+ years of hands-on experience developing applications and solutions using React, React Native and TypeScript.
+I'm a Frontend Developer with 5+ years of hands-on experience developing applications and solutions using React, React Native and NodeJS.
 
 
-- 🔥 Senior Frontend Developer
+- 🔥 Full Stack Developer
 
 - 🔭 I’m currently working at [Rethink](https://rethink.dev/)
 
