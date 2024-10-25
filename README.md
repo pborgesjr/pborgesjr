@@ -3,14 +3,12 @@
 </div>
 
 
-I'm a Frontend Developer with 5+ years of hands-on experience developing applications and solutions using React, React Native and NodeJS.
+I'm a Full Stack Developer with 5+ years of hands-on experience developing applications and solutions using React, React Native and NodeJS.
 
 
 - 🔥 Full Stack Developer
 
 - 🔭 I’m currently working at [Rethink](https://rethink.dev/)
-
-- 💬 Focused on improving my skills when it comes to frontend development
 
 - 📫 E-mail: <b>ppmbjr@gmail.com</b>
 
